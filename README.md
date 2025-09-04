@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil, me chamo Marlon e sou um desenvolvedor sempre buscando o aperfeiçoamento 😁
+## Bem-vindo ao meu perfil, me chamo Marlon e sou um desenvolvedor sempre buscando o aperfeiçoamento e novos conhecimentos 😁
 
  <div>
    <a href="https://github.com/MarlonMorari">
